@@ -1,0 +1,24 @@
+{
+  "source": "/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Dashboard",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 19
+        }
+      }
+    ]
+  },
+  "version": 1
+}

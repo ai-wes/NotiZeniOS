@@ -1,0 +1,18 @@
+"/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/Services/CloudSyncCoordinator.swift":
+  swift-dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/arm64/CloudSyncCoordinator.swiftdeps"
+  dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/arm64/CloudSyncCoordinator.d"
+  object: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/arm64/CloudSyncCoordinator.o"
+  const-values: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/arm64/CloudSyncCoordinator.swiftconstvalues"
+  diagnostics: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/arm64/CloudSyncCoordinator.dia"
+"/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/Models/WatchAppState.swift":
+  object: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/arm64/WatchAppState.o"
+  diagnostics: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/arm64/WatchAppState.dia"
+  const-values: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/arm64/WatchAppState.swiftconstvalues"
+  dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/arm64/WatchAppState.d"
+  swift-dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/arm64/WatchAppState.swiftdeps"
+"/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/Models/UserPreference.swift":
+  diagnostics: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/arm64/UserPreference.dia"
+  const-values: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/arm64/UserPreference.swiftconstvalues"
+  dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/arm64/UserPreference.d"
+  object: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/arm64/UserPreference.o"
+  swift-dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/arm64/UserPreference.swiftdeps"

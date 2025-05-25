@@ -1,0 +1,18 @@
+"/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/Services/NotificationCollector.swift":
+  diagnostics: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/NotificationCollector.dia"
+  swift-dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/NotificationCollector.swiftdeps"
+  object: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/NotificationCollector.o"
+  dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/NotificationCollector.d"
+  const-values: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/NotificationCollector.swiftconstvalues"
+"/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/Services/Optimizer.swift":
+  const-values: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/Optimizer.swiftconstvalues"
+  object: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/Optimizer.o"
+  dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/Optimizer.d"
+  swift-dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/Optimizer.swiftdeps"
+  diagnostics: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/Optimizer.dia"
+"/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/UI/Complications/NotiZenComplications.swift":
+  diagnostics: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/NotiZenComplications.dia"
+  dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/NotiZenComplications.d"
+  object: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/NotiZenComplications.o"
+  const-values: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/NotiZenComplications.swiftconstvalues"
+  swift-dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/NotiZenComplications.swiftdeps"

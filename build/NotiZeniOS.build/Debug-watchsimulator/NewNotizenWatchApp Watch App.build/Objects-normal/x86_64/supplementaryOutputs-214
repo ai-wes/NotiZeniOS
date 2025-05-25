@@ -1,0 +1,18 @@
+"/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/UI/Views/DigestPreviewSheetView.swift":
+  object: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/DigestPreviewSheetView.o"
+  dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/DigestPreviewSheetView.d"
+  diagnostics: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/DigestPreviewSheetView.dia"
+  swift-dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/DigestPreviewSheetView.swiftdeps"
+  const-values: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/DigestPreviewSheetView.swiftconstvalues"
+"/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/UI/Views/BatteryHoursCardView.swift":
+  dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/BatteryHoursCardView.d"
+  diagnostics: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/BatteryHoursCardView.dia"
+  swift-dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/BatteryHoursCardView.swiftdeps"
+  object: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/BatteryHoursCardView.o"
+  const-values: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/BatteryHoursCardView.swiftconstvalues"
+"/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/UI/Views/DigestListView.swift":
+  object: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/DigestListView.o"
+  dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/DigestListView.d"
+  swift-dependencies: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/DigestListView.swiftdeps"
+  diagnostics: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/DigestListView.dia"
+  const-values: "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchsimulator/NewNotizenWatchApp Watch App.build/Objects-normal/x86_64/DigestListView.swiftconstvalues"

@@ -6,11 +6,47 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		DE0DEDB52DE26AF60003459F /* NotiZenWatch Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = DE0DEDA82DE26AF40003459F /* NotiZenWatch Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		DE0DEDF82DE2DB470003459F /* WatchKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE0DEDF72DE2DB470003459F /* WatchKit.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		DE0DEDB32DE26AF60003459F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DEE089572DE2535E0011F3BD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DE0DEDA72DE26AF40003459F;
+			remoteInfo = "NotiZenWatch Watch App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		DE0DEDB92DE26AF60003459F /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				DE0DEDB52DE26AF60003459F /* NotiZenWatch Watch App.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		DE0DEDA82DE26AF40003459F /* NotiZenWatch Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "NotiZenWatch Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE0DEDF72DE2DB470003459F /* WatchKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WatchKit.framework; path = Platforms/WatchOS.platform/Developer/SDKs/WatchOS11.2.sdk/System/Library/Frameworks/WatchKit.framework; sourceTree = DEVELOPER_DIR; };
 		DEE0895F2DE2535E0011F3BD /* NotiZeniOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NotiZeniOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		DE0DEDA92DE26AF40003459F /* NewNotizenWatchApp Watch App */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "NewNotizenWatchApp Watch App";
+			sourceTree = "<group>";
+		};
 		DEE089612DE2535E0011F3BD /* NotiZeniOS */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = NotiZeniOS;
@@ -19,6 +55,14 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		DE0DEDA52DE26AF40003459F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DE0DEDF82DE2DB470003459F /* WatchKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		DEE0895C2DE2535E0011F3BD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -29,10 +73,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DE0DEDF62DE2DB470003459F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DE0DEDF72DE2DB470003459F /* WatchKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		DEE089562DE2535E0011F3BD = {
 			isa = PBXGroup;
 			children = (
 				DEE089612DE2535E0011F3BD /* NotiZeniOS */,
+				DE0DEDA92DE26AF40003459F /* NewNotizenWatchApp Watch App */,
+				DE0DEDF62DE2DB470003459F /* Frameworks */,
 				DEE089602DE2535E0011F3BD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -41,6 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				DEE0895F2DE2535E0011F3BD /* NotiZeniOS.app */,
+				DE0DEDA82DE26AF40003459F /* NotiZenWatch Watch App.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,6 +103,28 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		DE0DEDA72DE26AF40003459F /* NotiZenWatch Watch App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DE0DEDB62DE26AF60003459F /* Build configuration list for PBXNativeTarget "NotiZenWatch Watch App" */;
+			buildPhases = (
+				DE0DEDA42DE26AF40003459F /* Sources */,
+				DE0DEDA52DE26AF40003459F /* Frameworks */,
+				DE0DEDA62DE26AF40003459F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				DE0DEDA92DE26AF40003459F /* NewNotizenWatchApp Watch App */,
+			);
+			name = "NotiZenWatch Watch App";
+			packageProductDependencies = (
+			);
+			productName = "NotiZenWatch Watch App";
+			productReference = DE0DEDA82DE26AF40003459F /* NotiZenWatch Watch App.app */;
+			productType = "com.apple.product-type.application.watchapp2";
+		};
 		DEE0895E2DE2535E0011F3BD /* NotiZeniOS */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = DEE0896D2DE2535F0011F3BD /* Build configuration list for PBXNativeTarget "NotiZeniOS" */;
@@ -55,10 +132,12 @@
 				DEE0895B2DE2535E0011F3BD /* Sources */,
 				DEE0895C2DE2535E0011F3BD /* Frameworks */,
 				DEE0895D2DE2535E0011F3BD /* Resources */,
+				DE0DEDB92DE26AF60003459F /* Embed Watch Content */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				DE0DEDB42DE26AF60003459F /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
 				DEE089612DE2535E0011F3BD /* NotiZeniOS */,
@@ -80,6 +159,9 @@
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
+					DE0DEDA72DE26AF40003459F = {
+						CreatedOnToolsVersion = 16.2;
+					};
 					DEE0895E2DE2535E0011F3BD = {
 						CreatedOnToolsVersion = 16.2;
 					};
@@ -100,11 +182,19 @@
 			projectRoot = "";
 			targets = (
 				DEE0895E2DE2535E0011F3BD /* NotiZeniOS */,
+				DE0DEDA72DE26AF40003459F /* NotiZenWatch Watch App */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		DE0DEDA62DE26AF40003459F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		DEE0895D2DE2535E0011F3BD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -115,6 +205,13 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		DE0DEDA42DE26AF40003459F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		DEE0895B2DE2535E0011F3BD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -124,7 +221,79 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		DE0DEDB42DE26AF60003459F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DE0DEDA72DE26AF40003459F /* NotiZenWatch Watch App */;
+			targetProxy = DE0DEDB32DE26AF60003459F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
+		DE0DEDB72DE26AF60003459F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"NewNotizenWatchApp Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = 4LU5M2K424;
+				ENABLE_PREVIEWS = YES;
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = NotiZenWatch;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = WLEnterprise.NotiZeniOS;
+				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = WLEnterprise.NotiZeniOS.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Debug;
+		};
+		DE0DEDB82DE26AF60003459F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"NewNotizenWatchApp Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = 4LU5M2K424;
+				ENABLE_PREVIEWS = YES;
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = NotiZenWatch;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = WLEnterprise.NotiZeniOS;
+				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = WLEnterprise.NotiZeniOS.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Release;
+		};
 		DEE0896B2DE2535F0011F3BD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -305,6 +474,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		DE0DEDB62DE26AF60003459F /* Build configuration list for PBXNativeTarget "NotiZenWatch Watch App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE0DEDB72DE26AF60003459F /* Debug */,
+				DE0DEDB82DE26AF60003459F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		DEE0895A2DE2535E0011F3BD /* Build configuration list for PBXProject "NotiZeniOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

@@ -1,0 +1,118 @@
+{
+  "" : {
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/NotiZeniOS-master.dia",
+    "emit-module-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/NotiZeniOS-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/NotiZeniOS-master-emit-module.dia",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/NotiZeniOS-master.swiftdeps"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/ContentView.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Models/AppState.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/AppState.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/AppState.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/AppState.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/AppState.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/AppState.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/AppState.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/AppState.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/AppState~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Models/DataModels.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DataModels.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DataModels.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DataModels.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DataModels.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DataModels.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DataModels.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DataModels.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DataModels~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/NotiZeniOSApp.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/NotiZeniOSApp.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/NotiZeniOSApp.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/NotiZeniOSApp.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/NotiZeniOSApp.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/NotiZeniOSApp.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/NotiZeniOSApp.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/NotiZeniOSApp.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/NotiZeniOSApp~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Utils/DesignTokens.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DesignTokens.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DesignTokens.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DesignTokens.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DesignTokens.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DesignTokens.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DesignTokens.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DesignTokens.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DesignTokens~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Views/Battery/BatteryView.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/BatteryView.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/BatteryView.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/BatteryView.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/BatteryView.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/BatteryView.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/BatteryView.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/BatteryView.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/BatteryView~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Views/Categories/CategoriesView.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/CategoriesView.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/CategoriesView.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/CategoriesView.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/CategoriesView.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/CategoriesView.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/CategoriesView.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/CategoriesView.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/CategoriesView~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Views/Dashboard/DashboardView.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DashboardView.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DashboardView.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DashboardView.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DashboardView.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DashboardView.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DashboardView.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DashboardView.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/DashboardView~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Views/History/HistoryView.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/HistoryView.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/HistoryView.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/HistoryView.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/HistoryView.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/HistoryView.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/HistoryView.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/HistoryView.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/HistoryView~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Views/Settings/SettingsView.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphonesimulator/NotiZeniOS.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

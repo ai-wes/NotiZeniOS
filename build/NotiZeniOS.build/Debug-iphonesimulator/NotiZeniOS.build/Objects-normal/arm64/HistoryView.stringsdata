@@ -1,0 +1,40 @@
+{
+  "source": "/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Views/History/HistoryView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "History",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Data Type",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Data Yet",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 355
+        }
+      },
+      {
+        "comment": "",
+        "key": "We'll fill this after a day of usage",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 359
+        }
+      }
+    ]
+  },
+  "version": 1
+}
