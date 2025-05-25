@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/NotiZenWatch Watch App-master.dia",
+    "emit-module-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/NotiZenWatch Watch App-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/NotiZenWatch Watch App-master-emit-module.dia",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/NotiZenWatch Watch App-master.swiftdeps"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/ContentView.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/ContentView.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/ContentView.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/ContentView.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/ContentView.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/ContentView.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/ContentView~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/Models/WatchAppState.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchAppState.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchAppState.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchAppState.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchAppState.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchAppState.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchAppState.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchAppState.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchAppState~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/NewNotizenWatchAppApp.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/NewNotizenWatchAppApp.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/NewNotizenWatchAppApp.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/NewNotizenWatchAppApp.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/NewNotizenWatchAppApp.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/NewNotizenWatchAppApp.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/NewNotizenWatchAppApp.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/NewNotizenWatchAppApp.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/NewNotizenWatchAppApp~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/UI/Views/DigestPreviewSheetView.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/DigestPreviewSheetView.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/DigestPreviewSheetView.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/DigestPreviewSheetView.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/DigestPreviewSheetView.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/DigestPreviewSheetView.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/DigestPreviewSheetView.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/DigestPreviewSheetView.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/DigestPreviewSheetView~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/UI/Views/SettingsMenuView.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/SettingsMenuView.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/SettingsMenuView.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/SettingsMenuView.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/SettingsMenuView.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/SettingsMenuView.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/SettingsMenuView.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/SettingsMenuView.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/SettingsMenuView~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/NewNotizenWatchApp Watch App/UI/Views/WatchDashboardView.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchDashboardView.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchDashboardView.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchDashboardView.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchDashboardView.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchDashboardView.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchDashboardView.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchDashboardView.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/WatchDashboardView~partial.swiftmodule"
+  },
+  "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/GeneratedAssetSymbols.bc",
+    "object" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-watchos/NotiZenWatch Watch App.build/Objects-normal/arm64_32/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

@@ -1,11 +1,11 @@
-/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Views/Categories/CategoriesView.swift
-/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Views/Settings/SettingsView.swift
 /Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Models/AppState.swift
 /Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Models/DataModels.swift
-/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Views/History/HistoryView.swift
 /Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Utils/DesignTokens.swift
-/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/NotiZeniOSApp.swift
-/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Views/Dashboard/DashboardView.swift
-/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/ContentView.swift
 /Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Views/Battery/BatteryView.swift
+/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Views/Categories/CategoriesView.swift
+/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Views/Dashboard/DashboardView.swift
+/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Views/History/HistoryView.swift
+/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/Views/Settings/SettingsView.swift
+/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/ContentView.swift
+/Users/wes/Desktop/NotiZeniOS/NotiZeniOS/NotiZeniOSApp.swift
 /Users/wes/Desktop/NotiZeniOS/build/NotiZeniOS.build/Debug-iphoneos/NotiZeniOS.build/DerivedSources/GeneratedAssetSymbols.swift
